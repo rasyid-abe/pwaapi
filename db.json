@@ -1,0 +1,24 @@
+{
+    "products" : [
+        {"id":1,"name":"Ovis musimon","category":"Violet"},
+        {"id":2,"name":"Papilio canadensis","category":"Fuscia"},
+        {"id":3,"name":"Ceratotherium simum","category":"Orange"},
+        {"id":4,"name":"Uraeginthus angolensis","category":"Fuscia"},
+        {"id":5,"name":"Phasianus colchicus","category":"Khaki"},
+        {"id":6,"name":"Marmota caligata","category":"Red"},
+        {"id":7,"name":"Pycnonotus nigricans","category":"Yellow"},
+        {"id":8,"name":"Macropus fuliginosus","category":"Purple"},
+        {"id":9,"name":"Plocepasser mahali","category":"Crimson"},
+        {"id":10,"name":"Lepus townsendii","category":"Violet"},
+        {"id":11,"name":"Ara chloroptera","category":"Green"},
+        {"id":12,"name":"Lycosa godeffroyi","category":"Orange"},
+        {"id":13,"name":"Phoca vitulina","category":"Puce"},
+        {"id":14,"name":"Coendou prehensilis","category":"Orange"},
+        {"id":15,"name":"Anthropoides paradisea","category":"Indigo"},
+        {"id":16,"name":"Mycteria leucocephala","category":"Puce"},
+        {"id":17,"name":"Marmota monax","category":"Green"},
+        {"id":18,"name":"Trachyphonus vaillantii","category":"Green"},
+        {"id":19,"name":"Dacelo novaeguineae","category":"Violet"},
+        {"id":20,"name":"Myiarchus tuberculifer","category":"Puce"}
+    ]
+}
